@@ -1,2 +1,0 @@
-# DataAndModel
-Data and model
